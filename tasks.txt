@@ -1,0 +1,5 @@
+1) bardyk productka dostup alam
+2) knopkalarga dostup
+3) open btn ge dostup alam
+4) dinamik modal okno
+5) karzinaga juktoo
